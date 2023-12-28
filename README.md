@@ -36,5 +36,3 @@ git push origin main
 url:https://stackoverflow.com/questions/24114676/git-error-failed-to-push-some-refs-to-remote
  ```
 
-## License
-This source is free to use, but ChatterBot does have a license which still applies and can be found on the [LICENSE](https://github.com/gunthercox/ChatterBot/blob/master/LICENSE) page.
